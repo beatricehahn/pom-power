@@ -27,7 +27,8 @@ This project is a simple Pomodoro timer built with React using Vite. It serves a
     ```bash
     npm install
 
-3. **Run Locally**
+3. **Run Frontend (client-side) Locally**
    ```bash
+   cd client
    npm run dev
 Open your browser and navigate to the URL provided (typically http://localhost:3000) to see the app in action.
